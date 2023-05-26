@@ -9,6 +9,7 @@ View at [smkou.github.io]() <GithubPages>
 
 - HTML5
 - CSS3
+- [Skeleton 2.0.4]()
 
 ## Description
 
@@ -20,7 +21,7 @@ A pet website is likely to have one of three purposes: pet information, pet care
 
 **Pet Adoption**
 
-## Setup
+## Installation
 
 ## Known Bugs
 
